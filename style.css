@@ -1,0 +1,20 @@
+#me{
+  width: 200px;
+  height: 200px;
+  border: solid;
+  border-radius: 100%;
+}
+#dp{
+  width: 30%;
+  float: right;
+}
+em{
+  color: #26A;
+}
+#hk{
+  width: 30%;
+  float: left;
+}
+#trd{
+  font-size: 40%;
+}
